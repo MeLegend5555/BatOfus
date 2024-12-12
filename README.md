@@ -6,7 +6,7 @@
 
 ### **Screenshot:**
 <p align="center">
-  <img src="" width="300" alt="Screenshot of BatOfus"/>
+  <img src="https://github.com/MeLegend5555/BatOfus/blob/main/assets/images/Showcase.png?raw=true" width="300" alt="Screenshot of BatOfus"/>
 </p>
 
 >[!NOTE]
